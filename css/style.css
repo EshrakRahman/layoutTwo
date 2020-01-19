@@ -1,0 +1,123 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    overflow: hidden;
+}
+
+.logo {
+    background-color: aqua;
+    float: left;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+
+}
+
+.banner {
+    background-color: aqua;
+    float: right;
+    width: 68%;
+    height: 100px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+
+}
+
+.header-bar {
+    background-color: aquamarine;
+    height: 100px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+main {
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.leftBlock {
+    height: 500px;
+    width: 20%;
+    float: left;
+    background-color: cadetblue;
+    margin-right: 12px;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+
+}
+
+.content {
+    height: 500px;
+    width: 58%;
+    float: left;
+    background-color: darkcyan;
+}
+
+.rightBlock {
+    height: 500px;
+    width: 20%;
+    float: right;
+    background-color: darkorange;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+
+.topContent {
+    background-color: darkorchid;
+    height: 100px;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+
+.leftright {
+    overflow: hidden;
+}
+
+.leftcenter {
+    background-color: rgb(247, 92, 41);
+    float: left;
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+
+}
+
+.right {
+    background-color: rgb(146, 10, 56);
+    float: right;
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+
+.bottom {
+    background-color: darkorchid;
+    height: 100px;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: dodgerblue;
+    height: 100px;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
